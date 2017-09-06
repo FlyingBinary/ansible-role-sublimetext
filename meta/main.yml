@@ -11,4 +11,5 @@ galaxy_info:
   categories:
     - system
 dependencies:
-  - roderik.superlumic-homebrew
+  - name: IanTaylorFB.superlumic-homebrew
+    version: fbmaster
